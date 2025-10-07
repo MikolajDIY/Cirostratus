@@ -20,7 +20,7 @@
 
 ## Visualizations
 ### Circuit Schematic
-![Cirrostratus Experimental Schematic](schematics/Cirostratus_experimental.svg)
+![Cirrostratus Experimental Schematic](schematics/Cirostratus_0v14.svg)
 
 ### PCB Layout
 **Front Side:**  
