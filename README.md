@@ -8,9 +8,10 @@
 - **Pins for external temperature and humidity sensor**
 - **microSD card** – data logging
 - **NRF24L01** – wireless communication
-- **3.3V power supply** – optimized for low energy consumption
+- **3.3V power supply (TPS63001)** – provides stable 3.3V from 1.8–5.5V input, covering the full Li-Po battery range, optimized for low energy consumption
 - **Voltage monitoring via ADC**
 - Automatic wake-up every 10 minutes, measurement, data logging, transmission, and return to deep sleep
+- **Estimated battery life:** ~6 months on a 2500mAh Li-Po cell (based on preliminary calculations)
 
 ## Repository Contents
 - **Schematic** in SVG format
@@ -30,3 +31,4 @@
 
 ## License
 This project is licensed under the **MIT License** – you are free to use, modify, and integrate it into your own projects, provided credit is given to the author.
+
