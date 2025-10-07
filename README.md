@@ -26,7 +26,7 @@
 ![PCB Front](photos/PCB_Front.png)  
 
 **Back Side:**  
-![PCB Back](PCB_Back.png)  
+![PCB Back](photos/PCB_Back.png)  
 
 ## License
 This project is licensed under the **MIT License** – you are free to use, modify, and integrate it into your own projects, provided credit is given to the author.
